@@ -10,6 +10,9 @@
 
   <img width="1899" height="417" alt="deploy-to-k8s" src="https://github.com/user-attachments/assets/1b625b64-7068-48fb-b8a3-f76f2f3ce0e0" />
 
+# 4. Cloud devops engineer point of view.
+
+  <img width="1327" height="622" alt="image" src="https://github.com/user-attachments/assets/747945f4-c479-46ef-8bcf-e5c6318e1fb1" />
 
 -------------------------
 # Getting Started with 2048
