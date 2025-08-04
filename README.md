@@ -1,4 +1,15 @@
-<img width="1332" height="522" alt="image" src="https://github.com/user-attachments/assets/c24d45ae-d6e4-4a1a-b60f-f0e8a3c93df4" />
+# 1. Over all Project flow/structure.
+  
+<img width="1400" height="544" alt="image" src="https://github.com/user-attachments/assets/6bc161a3-d75d-4824-8212-1d8714ee44f7" />
+
+# 2. Jenkins pipeline to setup EKS cluster with terraform file.
+
+<img width="1919" height="424" alt="EKS-setup-pipeline" src="https://github.com/user-attachments/assets/4b45d744-d870-48c6-9cc0-89ce20ff9cbb" />
+
+# 3. Jenkins pipeline to deploy application in EKS.
+
+  <img width="1899" height="417" alt="deploy-to-k8s" src="https://github.com/user-attachments/assets/1b625b64-7068-48fb-b8a3-f76f2f3ce0e0" />
+
 
 -------------------------
 # Getting Started with 2048
