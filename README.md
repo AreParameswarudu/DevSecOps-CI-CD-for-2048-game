@@ -12,7 +12,15 @@
 
 # 4. Cloud devops engineer point of view.
 
-  <img width="1327" height="622" alt="image" src="https://github.com/user-attachments/assets/747945f4-c479-46ef-8bcf-e5c6318e1fb1" />
+ <img width="1154" height="603" alt="image" src="https://github.com/user-attachments/assets/38daa538-d25b-4089-a2da-30889fdf8f30" />
+
+# 5. The application
+
+ 
+
+  <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/e373cc46-dace-48e2-ad0e-14d5647d07d0" />
+
+
 
 -------------------------
 # Getting Started with 2048
